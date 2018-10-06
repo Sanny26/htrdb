@@ -21,12 +21,16 @@
               <td>{{row.1}}</td>
               <td>{{row.2}}</td>
               <td>{{row.3}}</td>
-              <td><a href="#">Link</td>
+              {% if row.4 == 'In progress' %}
+              <td>{{row.4}}</td>
+              {% else %}
+              <td><a href="{{row.4}}">Link</td>
+              {% endif %}
             </tr>
             {% endfor %}
           </table>
           <br><br>
-          <p>All the volunteers who have helped us with the dataset are mentioned in <a href="#">here</a>.</p>
+          <p>All the volunteers who have helped us with the dataset are mentioned in <a href="{% url 'people' %}">here</a>.</p>
         </div>
       </div>
     </div>

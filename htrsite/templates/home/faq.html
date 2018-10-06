@@ -1,7 +1,24 @@
 {% extends "base.html" %}
 
-{% block content%}
+{% block init_scripts %}
+<script>
 
+function redirect_home(){
+  window.location.href = "{% url 'home'%}";
+}
+
+function redirect_people(){
+  window.location.href = "{% url 'people'%}";
+}
+
+function redirect_prog(){
+  window.location.href = "{% url 'progress'%}";
+}
+
+</script>
+{% endblock %}
+
+{% block content%}
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
@@ -10,13 +27,22 @@
           <br>
           <ul class="list-styled">
           {% for obj in data %}
-            <p class="lead">{{obj.question}} </p>
-            <p> {{obj.answer}}</p>
+            <p class="lead">{{obj.question | safe}}</p>
+            <p> {{obj.answer | safe}}</p>
+            <!--p> {{obj.answer | safe}}</p-->
+            
             <hr>
           {% endfor %}
           </ul>
-          <br><br>
+          <br>
           <p class="font-weight-bold">For further queries, please contact us at santhoshini.gongidi@research.iiit.ac.in</p>
+
+          <br><hr>
+          <figure class="text-center" id="sample">
+            <figcaption>Sample page that was filled by a volunteer for Telugu language.</figcaption>
+            <img src="static/imgs/data.png">
+          </figure>
+
         </div>
       </div>
     </div>

@@ -1,9 +1,9 @@
-Hindi, -, -, 100%
-Telugu, -, -, 100%
-Malayalam, 1200, 15, 24%
-Bangla, 1000, 19, 20%
-Punjabi, 1000, 20, 20%
-Gujarati, 1000, 17, 20%
-Kannada, 450, 6, 9%
-Odia, 300, 7, 6%
-Tamil, 200, 4, 4%
+Hindi, 12, 2503, 100%, http://preon.iiit.ac.in/~kartik/IIIT-HW-Dev.zip
+Telugu, 8, 3299, 100%, http://preon.iiit.ac.in/~kartik/IIIT-HW-Telugu.zip
+Malayalam, 1200, 15, 24%, In progress 
+Bangla, 1000, 19, 20%, In progress 
+Punjabi, 1000, 20, 20%, In progress 
+Gujarati, 1000, 17, 20%, In progress
+Kannada, 450, 6, 9%, In progress
+Odia, 300, 7, 6%, In progress
+Tamil, 200, 4, 4%, In progress

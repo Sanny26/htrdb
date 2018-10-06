@@ -1,23 +1,31 @@
 [
 	{
-	"question":"How will this data be used?",
-	 "answer" : "Lorem ipsum Lorem ipsum ipsum"
+	"question":"How will this dataset be used?",
+	 "answer" : "The data that we are collecting will be made available to the public. These datasets can be downloaded from <a href='#' onclick='redirect_prog()'>here</a>. <br>This enables interested researchers in working on problems of text recognition for Indian Languages. To read more on the aspect, please visit the following <a href='#' onclick='redirect_home()'>link</a>."
 	},
     {
-    "question":"What can you do to help collect the data?",
-    "answer" : "Lorem ipsum Lorem ipsum ipsum"
+    "question":"What can I do to help collect the data?",
+    "answer" : "You can help us by writing a few words. We will share printed pages which contain words of a language, all you have do is copy these words in the given space. Sample page is displayed <a href='#sample'>below</a>."
     },
     
     {
     "question":"How much time will I have to spend to contribute to this collection?",
-    "answer" : "Lorem ipsum Lorem ipsum ipsum"
+    "answer" : "We would apppreciate it if you can spend upto 8 hours over a period of 2 weeks. In other words, you have to spend upto half an hour a day to help us complete the collection that enables other researchers to work on Indian Languages."
     },
     {
-    "question":"Will my identity be revealed?",
-    "answer" : "Lorem ipsum Lorem ipsum ipsum"
+        "question": "How complicated is this process?",
+        "answer" : "The process is made very easy. You just have to fill the google form, mentioning your details. Then, we will share the documents with you. You can complete writing the documents and inform us. We will come and collect the documents written by you."
     },
     {
-    "question":"How should you ?",
-    "answer" : "Lorem ipsum Lorem ipsum ipsum"
+        "question": "Can I volunteer to write for more than two languages ?",
+        "answer" : "Yes. If you can write any of the languages that we are collecting, you can volunteer to write for more than one language."
+    },
+    {
+    "question":"Are there any privacy issues that could in future? Will my identity be revealed?",
+    "answer" : "Your identity will not be used along with the handwritten data. However, your participation in this data collection will be acknowledged over <a href='#' onclick='redirect_people()'>here</a>. You can choose whether or not you want to be acknowledged."
+    },
+    {
+    "question":"I am interested in helping with the process. How will I get these printed documents?",
+    "answer" : "Please fill the form by clicking on this <a href='https://goo.gl/forms/HGfV6iTMdCy55SL93'>link</a>. We will get back to you as soon as possible."
     }
 ]
