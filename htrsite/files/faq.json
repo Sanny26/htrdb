@@ -1,0 +1,23 @@
+[
+	{
+	"question":"How will this data be used?",
+	 "answer" : "Lorem ipsum Lorem ipsum ipsum"
+	},
+    {
+    "question":"What can you do to help collect the data?",
+    "answer" : "Lorem ipsum Lorem ipsum ipsum"
+    },
+    
+    {
+    "question":"How much time will I have to spend to contribute to this collection?",
+    "answer" : "Lorem ipsum Lorem ipsum ipsum"
+    },
+    {
+    "question":"Will my identity be revealed?",
+    "answer" : "Lorem ipsum Lorem ipsum ipsum"
+    },
+    {
+    "question":"How should you ?",
+    "answer" : "Lorem ipsum Lorem ipsum ipsum"
+    }
+]
