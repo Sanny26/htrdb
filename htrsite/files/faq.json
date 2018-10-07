@@ -10,7 +10,7 @@
     
     {
     "question":"How much time will I have to spend to contribute to this collection?",
-    "answer" : "We would apppreciate it if you can spend upto 8 hours over a period of 2 weeks. In other words, you have to spend upto half an hour a day to help us complete the collection that enables other researchers to work on Indian Languages."
+    "answer" : "We would apppreciate it if you can spend upto 8 hours over a period of 2 weeks. In other words, you would have to spend upto half an hour a day to help us complete the collection that enables other researchers to work on Indian Languages."
     },
     {
         "question": "How complicated is this process?",
@@ -21,7 +21,7 @@
         "answer" : "Yes. If you can write any of the languages that we are collecting, you can volunteer to write for more than one language."
     },
     {
-    "question":"Are there any privacy issues that could in future? Will my identity be revealed?",
+    "question":"Will I face any issues by contributing to the datasets? Will my identity be revealed?",
     "answer" : "Your identity will not be used along with the handwritten data. However, your participation in this data collection will be acknowledged over <a href='#' onclick='redirect_people()'>here</a>. You can choose whether or not you want to be acknowledged."
     },
     {
